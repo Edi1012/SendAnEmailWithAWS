@@ -38,6 +38,6 @@ string templateFilePath = "..\\document.html"; // Provide the path to your HTML 
 ## Author
 Edi
 
-## Acknowledgments
+## Final Notes
 - This program utilizes Amazon SES for email sending.
 - The HTML template can be customized to include any desired content.
